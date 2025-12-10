@@ -1,0 +1,4 @@
+- pkg:pypi/baz@0.2.2
+- pkg:pypi/baz@0.2.3
+- pkg:pypi/baz@0.2.5
+- pkg:pypi/baz@0.2.6
