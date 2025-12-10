@@ -1,0 +1,3 @@
+- pkg:pypi/buildout.recipe.isolation@0.1.1
+- pkg:pypi/buildout.recipe.isolation@0.2.0
+- pkg:pypi/buildout.recipe.isolation@0.3a1
