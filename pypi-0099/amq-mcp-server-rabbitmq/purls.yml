@@ -1,0 +1,4 @@
+- pkg:pypi/amq-mcp-server-rabbitmq@2.2.0
+- pkg:pypi/amq-mcp-server-rabbitmq@2.2.2
+- pkg:pypi/amq-mcp-server-rabbitmq@2.2.3
+- pkg:pypi/amq-mcp-server-rabbitmq@2.2.4
