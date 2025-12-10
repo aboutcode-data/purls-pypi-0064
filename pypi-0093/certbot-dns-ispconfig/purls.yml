@@ -1,0 +1,4 @@
+- pkg:pypi/certbot-dns-ispconfig@0.1.8
+- pkg:pypi/certbot-dns-ispconfig@0.2.0
+- pkg:pypi/certbot-dns-ispconfig@0.3.0
+- pkg:pypi/certbot-dns-ispconfig@0.3.1
