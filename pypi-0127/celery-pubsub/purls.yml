@@ -1,0 +1,15 @@
+- pkg:pypi/celery-pubsub@0.1
+- pkg:pypi/celery-pubsub@0.1.2
+- pkg:pypi/celery-pubsub@0.1.6
+- pkg:pypi/celery-pubsub@0.1.7
+- pkg:pypi/celery-pubsub@0.1.8
+- pkg:pypi/celery-pubsub@0.1.9
+- pkg:pypi/celery-pubsub@0.2.0
+- pkg:pypi/celery-pubsub@0.2.1
+- pkg:pypi/celery-pubsub@1.0.0
+- pkg:pypi/celery-pubsub@1.0.1
+- pkg:pypi/celery-pubsub@1.0.2
+- pkg:pypi/celery-pubsub@1.0.2rc0
+- pkg:pypi/celery-pubsub@2.0.0b1
+- pkg:pypi/celery-pubsub@2.0.0b2
+- pkg:pypi/celery-pubsub@2.0.0b3
