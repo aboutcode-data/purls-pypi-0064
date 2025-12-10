@@ -1,0 +1,12 @@
+- pkg:pypi/cdk8s-aws-load-balancer-controller@1.0.1
+- pkg:pypi/cdk8s-aws-load-balancer-controller@1.0.2
+- pkg:pypi/cdk8s-aws-load-balancer-controller@1.0.3
+- pkg:pypi/cdk8s-aws-load-balancer-controller@1.0.5
+- pkg:pypi/cdk8s-aws-load-balancer-controller@1.0.6
+- pkg:pypi/cdk8s-aws-load-balancer-controller@2.2.1
+- pkg:pypi/cdk8s-aws-load-balancer-controller@2.3.1
+- pkg:pypi/cdk8s-aws-load-balancer-controller@2.3.2
+- pkg:pypi/cdk8s-aws-load-balancer-controller@2.3.3
+- pkg:pypi/cdk8s-aws-load-balancer-controller@2.3.4
+- pkg:pypi/cdk8s-aws-load-balancer-controller@2.3.5
+- pkg:pypi/cdk8s-aws-load-balancer-controller@2.3.6
