@@ -1,0 +1,4 @@
+- pkg:pypi/azure-functions-openapi-pydantic@0.1.0
+- pkg:pypi/azure-functions-openapi-pydantic@1.0.0a1
+- pkg:pypi/azure-functions-openapi-pydantic@1.0.0a2
+- pkg:pypi/azure-functions-openapi-pydantic@1.0.0b1
