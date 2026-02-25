@@ -25,3 +25,5 @@
 - pkg:pypi/audbackend@2.2.1
 - pkg:pypi/audbackend@2.2.2
 - pkg:pypi/audbackend@2.2.3
+- pkg:pypi/audbackend@2.3.0
+- pkg:pypi/audbackend@2.3.1

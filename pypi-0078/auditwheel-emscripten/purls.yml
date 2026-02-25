@@ -16,3 +16,6 @@
 - pkg:pypi/auditwheel-emscripten@0.0.9
 - pkg:pypi/auditwheel-emscripten@0.1.0
 - pkg:pypi/auditwheel-emscripten@0.2.0
+- pkg:pypi/auditwheel-emscripten@0.2.1
+- pkg:pypi/auditwheel-emscripten@0.2.2
+- pkg:pypi/auditwheel-emscripten@0.2.3
