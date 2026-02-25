@@ -23,6 +23,7 @@
 - pkg:pypi/cdktf-cdktf-provider-kubernetes@11.9.0
 - pkg:pypi/cdktf-cdktf-provider-kubernetes@12.0.0
 - pkg:pypi/cdktf-cdktf-provider-kubernetes@12.1.0
+- pkg:pypi/cdktf-cdktf-provider-kubernetes@12.1.1
 - pkg:pypi/cdktf-cdktf-provider-kubernetes@2.0.0
 - pkg:pypi/cdktf-cdktf-provider-kubernetes@2.0.1
 - pkg:pypi/cdktf-cdktf-provider-kubernetes@2.0.10

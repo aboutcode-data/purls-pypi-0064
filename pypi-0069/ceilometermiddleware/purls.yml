@@ -23,6 +23,7 @@
 - pkg:pypi/ceilometermiddleware@2.4.1
 - pkg:pypi/ceilometermiddleware@3.0.0
 - pkg:pypi/ceilometermiddleware@3.1.0
+- pkg:pypi/ceilometermiddleware@3.10.0
 - pkg:pypi/ceilometermiddleware@3.2.0
 - pkg:pypi/ceilometermiddleware@3.3.0
 - pkg:pypi/ceilometermiddleware@3.3.1
