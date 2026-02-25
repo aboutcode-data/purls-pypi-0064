@@ -20,3 +20,5 @@
 - pkg:pypi/childproject@0.4.2
 - pkg:pypi/childproject@0.4.3
 - pkg:pypi/childproject@0.4.4
+- pkg:pypi/childproject@0.4.5
+- pkg:pypi/childproject@0.4.6

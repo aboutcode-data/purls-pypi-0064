@@ -104,3 +104,6 @@
 - pkg:pypi/checkmk-dev-tools@1.2.1
 - pkg:pypi/checkmk-dev-tools@2.0.0
 - pkg:pypi/checkmk-dev-tools@2.0.1
+- pkg:pypi/checkmk-dev-tools@2.0.2
+- pkg:pypi/checkmk-dev-tools@2.0.3
+- pkg:pypi/checkmk-dev-tools@2.1.0
