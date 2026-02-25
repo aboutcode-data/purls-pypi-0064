@@ -1,5 +1,6 @@
 - pkg:pypi/bodhi-messages@25.11.1
 - pkg:pypi/bodhi-messages@25.11.2
+- pkg:pypi/bodhi-messages@25.11.3
 - pkg:pypi/bodhi-messages@25.5.0
 - pkg:pypi/bodhi-messages@25.5.1
 - pkg:pypi/bodhi-messages@4.0.0
