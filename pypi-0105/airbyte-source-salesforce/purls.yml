@@ -88,6 +88,12 @@
 - pkg:pypi/airbyte-source-salesforce@2.7.16
 - pkg:pypi/airbyte-source-salesforce@2.7.16rc1
 - pkg:pypi/airbyte-source-salesforce@2.7.16rc1.dev202510271830
+- pkg:pypi/airbyte-source-salesforce@2.7.17
+- pkg:pypi/airbyte-source-salesforce@2.7.17.dev202602101737
+- pkg:pypi/airbyte-source-salesforce@2.7.18
+- pkg:pypi/airbyte-source-salesforce@2.7.18.dev202602171827
+- pkg:pypi/airbyte-source-salesforce@2.7.18.dev202602181619
+- pkg:pypi/airbyte-source-salesforce@2.7.18.dev202602192314
 - pkg:pypi/airbyte-source-salesforce@2.7.2
 - pkg:pypi/airbyte-source-salesforce@2.7.3
 - pkg:pypi/airbyte-source-salesforce@2.7.4
@@ -96,3 +102,4 @@
 - pkg:pypi/airbyte-source-salesforce@2.7.7
 - pkg:pypi/airbyte-source-salesforce@2.7.8
 - pkg:pypi/airbyte-source-salesforce@2.7.9
+- pkg:pypi/airbyte-source-salesforce@2.8.0.dev202602042335

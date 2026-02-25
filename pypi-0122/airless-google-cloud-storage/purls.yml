@@ -21,3 +21,7 @@
 - pkg:pypi/airless-google-cloud-storage@0.1.1
 - pkg:pypi/airless-google-cloud-storage@0.1.2
 - pkg:pypi/airless-google-cloud-storage@0.1.2.dev1
+- pkg:pypi/airless-google-cloud-storage@0.2.0
+- pkg:pypi/airless-google-cloud-storage@0.3.0
+- pkg:pypi/airless-google-cloud-storage@0.4.0
+- pkg:pypi/airless-google-cloud-storage@0.4.1

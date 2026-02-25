@@ -42,9 +42,11 @@
 - pkg:pypi/aistore@1.16.0
 - pkg:pypi/aistore@1.17.0
 - pkg:pypi/aistore@1.18.0
+- pkg:pypi/aistore@1.19.0
 - pkg:pypi/aistore@1.2.0
 - pkg:pypi/aistore@1.2.1
 - pkg:pypi/aistore@1.2.2
+- pkg:pypi/aistore@1.20.0
 - pkg:pypi/aistore@1.3.0
 - pkg:pypi/aistore@1.4.0
 - pkg:pypi/aistore@1.4.1
