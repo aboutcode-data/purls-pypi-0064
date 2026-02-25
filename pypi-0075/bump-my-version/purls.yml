@@ -82,3 +82,6 @@
 - pkg:pypi/bump-my-version@1.2.2
 - pkg:pypi/bump-my-version@1.2.3
 - pkg:pypi/bump-my-version@1.2.4
+- pkg:pypi/bump-my-version@1.2.5
+- pkg:pypi/bump-my-version@1.2.6
+- pkg:pypi/bump-my-version@1.2.7
