@@ -35,6 +35,12 @@
 - pkg:pypi/alibabacloud-cloudauth20190307@3.1.0
 - pkg:pypi/alibabacloud-cloudauth20190307@3.10.0
 - pkg:pypi/alibabacloud-cloudauth20190307@3.11.0
+- pkg:pypi/alibabacloud-cloudauth20190307@3.11.1
+- pkg:pypi/alibabacloud-cloudauth20190307@3.12.0
+- pkg:pypi/alibabacloud-cloudauth20190307@3.12.1
+- pkg:pypi/alibabacloud-cloudauth20190307@3.12.2
+- pkg:pypi/alibabacloud-cloudauth20190307@3.13.0
+- pkg:pypi/alibabacloud-cloudauth20190307@3.13.1
 - pkg:pypi/alibabacloud-cloudauth20190307@3.2.0
 - pkg:pypi/alibabacloud-cloudauth20190307@3.2.1
 - pkg:pypi/alibabacloud-cloudauth20190307@3.2.2

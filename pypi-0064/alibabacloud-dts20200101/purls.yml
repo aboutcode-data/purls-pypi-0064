@@ -11,6 +11,8 @@
 - pkg:pypi/alibabacloud-dts20200101@5.1.28
 - pkg:pypi/alibabacloud-dts20200101@5.10.0
 - pkg:pypi/alibabacloud-dts20200101@5.10.1
+- pkg:pypi/alibabacloud-dts20200101@5.11.0
+- pkg:pypi/alibabacloud-dts20200101@5.11.1
 - pkg:pypi/alibabacloud-dts20200101@5.2.0
 - pkg:pypi/alibabacloud-dts20200101@5.3.0
 - pkg:pypi/alibabacloud-dts20200101@5.3.1

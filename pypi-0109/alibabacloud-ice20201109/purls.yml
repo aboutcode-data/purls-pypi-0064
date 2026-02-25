@@ -77,6 +77,8 @@
 - pkg:pypi/alibabacloud-ice20201109@6.0.0
 - pkg:pypi/alibabacloud-ice20201109@6.0.1
 - pkg:pypi/alibabacloud-ice20201109@6.1.0
+- pkg:pypi/alibabacloud-ice20201109@6.10.0
+- pkg:pypi/alibabacloud-ice20201109@6.10.1
 - pkg:pypi/alibabacloud-ice20201109@6.2.0
 - pkg:pypi/alibabacloud-ice20201109@6.3.0
 - pkg:pypi/alibabacloud-ice20201109@6.3.1
@@ -97,3 +99,4 @@
 - pkg:pypi/alibabacloud-ice20201109@6.8.3
 - pkg:pypi/alibabacloud-ice20201109@6.8.4
 - pkg:pypi/alibabacloud-ice20201109@6.8.5
+- pkg:pypi/alibabacloud-ice20201109@6.9.0
