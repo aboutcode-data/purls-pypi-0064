@@ -164,6 +164,12 @@
 - pkg:pypi/bitmovin-api-sdk@1.250.0
 - pkg:pypi/bitmovin-api-sdk@1.251.0
 - pkg:pypi/bitmovin-api-sdk@1.252.0
+- pkg:pypi/bitmovin-api-sdk@1.253.0
+- pkg:pypi/bitmovin-api-sdk@1.254.0
+- pkg:pypi/bitmovin-api-sdk@1.255.0
+- pkg:pypi/bitmovin-api-sdk@1.255.1
+- pkg:pypi/bitmovin-api-sdk@1.255.2
+- pkg:pypi/bitmovin-api-sdk@1.256.0
 - pkg:pypi/bitmovin-api-sdk@1.45.0
 - pkg:pypi/bitmovin-api-sdk@1.46.0
 - pkg:pypi/bitmovin-api-sdk@1.47.0

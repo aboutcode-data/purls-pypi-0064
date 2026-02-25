@@ -102,6 +102,9 @@
 - pkg:pypi/bitfount@1.0.4
 - pkg:pypi/bitfount@1.0.5
 - pkg:pypi/bitfount@1.0.6
+- pkg:pypi/bitfount@10.0.0
+- pkg:pypi/bitfount@10.0.1
+- pkg:pypi/bitfount@11.0.0
 - pkg:pypi/bitfount@2.0.0
 - pkg:pypi/bitfount@2.0.1
 - pkg:pypi/bitfount@2.0.2
