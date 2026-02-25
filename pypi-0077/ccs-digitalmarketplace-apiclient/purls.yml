@@ -113,6 +113,10 @@
 - pkg:pypi/ccs-digitalmarketplace-apiclient@37.1.1
 - pkg:pypi/ccs-digitalmarketplace-apiclient@37.10.0
 - pkg:pypi/ccs-digitalmarketplace-apiclient@37.11.0
+- pkg:pypi/ccs-digitalmarketplace-apiclient@37.12.0
+- pkg:pypi/ccs-digitalmarketplace-apiclient@37.13.0
+- pkg:pypi/ccs-digitalmarketplace-apiclient@37.14.0
+- pkg:pypi/ccs-digitalmarketplace-apiclient@37.15.0
 - pkg:pypi/ccs-digitalmarketplace-apiclient@37.2.0
 - pkg:pypi/ccs-digitalmarketplace-apiclient@37.3.0
 - pkg:pypi/ccs-digitalmarketplace-apiclient@37.4.0
