@@ -11,6 +11,7 @@
 - pkg:pypi/blazar@13.0.1
 - pkg:pypi/blazar@14.0.0
 - pkg:pypi/blazar@14.0.0.0rc1
+- pkg:pypi/blazar@14.0.1
 - pkg:pypi/blazar@15.0.0
 - pkg:pypi/blazar@15.0.0.0rc1
 - pkg:pypi/blazar@16.0.0

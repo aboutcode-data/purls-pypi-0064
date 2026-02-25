@@ -58,3 +58,5 @@
 - pkg:pypi/blobtoolkit@4.4.2
 - pkg:pypi/blobtoolkit@4.4.4
 - pkg:pypi/blobtoolkit@4.4.5
+- pkg:pypi/blobtoolkit@4.5.0
+- pkg:pypi/blobtoolkit@4.5.1

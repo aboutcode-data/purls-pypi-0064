@@ -15,6 +15,7 @@
 - pkg:pypi/blosc@1.11.1
 - pkg:pypi/blosc@1.11.2
 - pkg:pypi/blosc@1.11.3
+- pkg:pypi/blosc@1.11.4
 - pkg:pypi/blosc@1.2.0
 - pkg:pypi/blosc@1.2.1
 - pkg:pypi/blosc@1.2.2

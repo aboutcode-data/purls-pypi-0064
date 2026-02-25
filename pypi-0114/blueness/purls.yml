@@ -10,6 +10,8 @@
 - pkg:pypi/blueness@3.112.1
 - pkg:pypi/blueness@3.115.1
 - pkg:pypi/blueness@3.118.1
+- pkg:pypi/blueness@3.120.1
+- pkg:pypi/blueness@3.122.1
 - pkg:pypi/blueness@3.13.1
 - pkg:pypi/blueness@3.14.1
 - pkg:pypi/blueness@3.15.1
