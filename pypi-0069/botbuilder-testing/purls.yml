@@ -25,6 +25,7 @@
 - pkg:pypi/botbuilder-testing@4.16.1
 - pkg:pypi/botbuilder-testing@4.16.2
 - pkg:pypi/botbuilder-testing@4.17.0
+- pkg:pypi/botbuilder-testing@4.17.1
 - pkg:pypi/botbuilder-testing@4.5.0b5
 - pkg:pypi/botbuilder-testing@4.7.0
 - pkg:pypi/botbuilder-testing@4.7.1

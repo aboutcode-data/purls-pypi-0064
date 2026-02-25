@@ -6,6 +6,9 @@
 - pkg:pypi/bork@10.0.2b1
 - pkg:pypi/bork@10.0.2b2
 - pkg:pypi/bork@10.0.3
+- pkg:pypi/bork@10.1.0
+- pkg:pypi/bork@10.1.1
+- pkg:pypi/bork@11.0.0
 - pkg:pypi/bork@2.0.0
 - pkg:pypi/bork@3.0.0
 - pkg:pypi/bork@4.0.0

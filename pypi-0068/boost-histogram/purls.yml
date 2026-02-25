@@ -32,3 +32,5 @@
 - pkg:pypi/boost-histogram@1.5.2
 - pkg:pypi/boost-histogram@1.6.0
 - pkg:pypi/boost-histogram@1.6.1
+- pkg:pypi/boost-histogram@1.7.0
+- pkg:pypi/boost-histogram@1.7.1
