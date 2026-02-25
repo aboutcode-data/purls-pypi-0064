@@ -26,3 +26,5 @@
 - pkg:pypi/ampache@6.7.0.post1
 - pkg:pypi/ampache@6.7.3
 - pkg:pypi/ampache@6.8.0
+- pkg:pypi/ampache@6.9.0
+- pkg:pypi/ampache@6.9.1
