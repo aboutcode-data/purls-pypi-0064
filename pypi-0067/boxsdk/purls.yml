@@ -30,6 +30,8 @@
 - pkg:pypi/boxsdk@10.0.1
 - pkg:pypi/boxsdk@10.1.0
 - pkg:pypi/boxsdk@10.2.0
+- pkg:pypi/boxsdk@10.3.0
+- pkg:pypi/boxsdk@10.4.0
 - pkg:pypi/boxsdk@2.0.0
 - pkg:pypi/boxsdk@2.0.0a1
 - pkg:pypi/boxsdk@2.0.0a10
@@ -92,3 +94,5 @@
 - pkg:pypi/boxsdk@4.0.0
 - pkg:pypi/boxsdk@4.1.0
 - pkg:pypi/boxsdk@4.2.0
+- pkg:pypi/boxsdk@4.3.0
+- pkg:pypi/boxsdk@4.4.0

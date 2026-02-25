@@ -59,6 +59,10 @@
 - pkg:pypi/botrun-flow-lang@5.10.83
 - pkg:pypi/botrun-flow-lang@5.11.11
 - pkg:pypi/botrun-flow-lang@5.11.281
+- pkg:pypi/botrun-flow-lang@5.12.261
+- pkg:pypi/botrun-flow-lang@5.12.262
+- pkg:pypi/botrun-flow-lang@5.12.263
+- pkg:pypi/botrun-flow-lang@5.12.264
 - pkg:pypi/botrun-flow-lang@5.2.161
 - pkg:pypi/botrun-flow-lang@5.2.51
 - pkg:pypi/botrun-flow-lang@5.3.112
@@ -128,3 +132,6 @@
 - pkg:pypi/botrun-flow-lang@5.9.231a1
 - pkg:pypi/botrun-flow-lang@5.9.231a2
 - pkg:pypi/botrun-flow-lang@5.9.301
+- pkg:pypi/botrun-flow-lang@6.2.21
+- pkg:pypi/botrun-flow-lang@6.2.61
+- pkg:pypi/botrun-flow-lang@6.2.62
