@@ -1,5 +1,6 @@
 - pkg:pypi/basis-set-exchange@0.10
 - pkg:pypi/basis-set-exchange@0.11
+- pkg:pypi/basis-set-exchange@0.12
 - pkg:pypi/basis-set-exchange@0.4
 - pkg:pypi/basis-set-exchange@0.4.1
 - pkg:pypi/basis-set-exchange@0.4.2

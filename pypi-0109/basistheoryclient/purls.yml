@@ -33,3 +33,7 @@
 - pkg:pypi/basistheoryclient@4.0.0
 - pkg:pypi/basistheoryclient@4.1.0
 - pkg:pypi/basistheoryclient@4.2.0
+- pkg:pypi/basistheoryclient@5.0.0
+- pkg:pypi/basistheoryclient@5.1.0
+- pkg:pypi/basistheoryclient@5.2.0
+- pkg:pypi/basistheoryclient@5.3.0
