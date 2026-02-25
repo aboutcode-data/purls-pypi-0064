@@ -1,0 +1,4 @@
+- pkg:pypi/cupti-python@12.6.0
+- pkg:pypi/cupti-python@12.8.0
+- pkg:pypi/cupti-python@13.0.0
+- pkg:pypi/cupti-python@13.0.1
