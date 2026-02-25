@@ -15,6 +15,7 @@
 - pkg:pypi/allure-nose2@2.15.0
 - pkg:pypi/allure-nose2@2.15.1
 - pkg:pypi/allure-nose2@2.15.2
+- pkg:pypi/allure-nose2@2.15.3
 - pkg:pypi/allure-nose2@2.8.19
 - pkg:pypi/allure-nose2@2.8.20
 - pkg:pypi/allure-nose2@2.8.21

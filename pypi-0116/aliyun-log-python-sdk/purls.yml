@@ -154,7 +154,12 @@
 - pkg:pypi/aliyun-log-python-sdk@0.9.35
 - pkg:pypi/aliyun-log-python-sdk@0.9.36
 - pkg:pypi/aliyun-log-python-sdk@0.9.37
+- pkg:pypi/aliyun-log-python-sdk@0.9.38
+- pkg:pypi/aliyun-log-python-sdk@0.9.39
 - pkg:pypi/aliyun-log-python-sdk@0.9.4
+- pkg:pypi/aliyun-log-python-sdk@0.9.40
+- pkg:pypi/aliyun-log-python-sdk@0.9.41
+- pkg:pypi/aliyun-log-python-sdk@0.9.42
 - pkg:pypi/aliyun-log-python-sdk@0.9.5
 - pkg:pypi/aliyun-log-python-sdk@0.9.6
 - pkg:pypi/aliyun-log-python-sdk@0.9.7
