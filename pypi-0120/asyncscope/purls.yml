@@ -5,6 +5,7 @@
 - pkg:pypi/asyncscope@0.10.4
 - pkg:pypi/asyncscope@0.11.1
 - pkg:pypi/asyncscope@0.11.2
+- pkg:pypi/asyncscope@0.12.0
 - pkg:pypi/asyncscope@0.2.0
 - pkg:pypi/asyncscope@0.2.1
 - pkg:pypi/asyncscope@0.2.2
