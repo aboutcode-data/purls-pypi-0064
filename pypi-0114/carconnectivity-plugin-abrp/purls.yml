@@ -19,3 +19,5 @@
 - pkg:pypi/carconnectivity-plugin-abrp@0.7
 - pkg:pypi/carconnectivity-plugin-abrp@0.7a1
 - pkg:pypi/carconnectivity-plugin-abrp@0.7a2
+- pkg:pypi/carconnectivity-plugin-abrp@0.8
+- pkg:pypi/carconnectivity-plugin-abrp@0.8.1
