@@ -139,3 +139,4 @@
 - pkg:pypi/cibuildwheel@3.2.0
 - pkg:pypi/cibuildwheel@3.2.1
 - pkg:pypi/cibuildwheel@3.3.0
+- pkg:pypi/cibuildwheel@3.3.1

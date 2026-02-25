@@ -1,4 +1,8 @@
 - pkg:pypi/chuk-ai-session-manager@0.1.1
+- pkg:pypi/chuk-ai-session-manager@0.10.1
+- pkg:pypi/chuk-ai-session-manager@0.10.2
+- pkg:pypi/chuk-ai-session-manager@0.10.3
+- pkg:pypi/chuk-ai-session-manager@0.11
 - pkg:pypi/chuk-ai-session-manager@0.2
 - pkg:pypi/chuk-ai-session-manager@0.2.1
 - pkg:pypi/chuk-ai-session-manager@0.3
@@ -7,3 +11,7 @@
 - pkg:pypi/chuk-ai-session-manager@0.5
 - pkg:pypi/chuk-ai-session-manager@0.7
 - pkg:pypi/chuk-ai-session-manager@0.7.1
+- pkg:pypi/chuk-ai-session-manager@0.8
+- pkg:pypi/chuk-ai-session-manager@0.8.1
+- pkg:pypi/chuk-ai-session-manager@0.8.2
+- pkg:pypi/chuk-ai-session-manager@0.9
