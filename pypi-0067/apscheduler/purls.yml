@@ -29,6 +29,7 @@
 - pkg:pypi/apscheduler@3.10.4
 - pkg:pypi/apscheduler@3.11.0
 - pkg:pypi/apscheduler@3.11.1
+- pkg:pypi/apscheduler@3.11.2
 - pkg:pypi/apscheduler@3.2.0
 - pkg:pypi/apscheduler@3.3.0
 - pkg:pypi/apscheduler@3.3.1

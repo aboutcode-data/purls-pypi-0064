@@ -97,6 +97,8 @@
 - pkg:pypi/arches@7.6.18
 - pkg:pypi/arches@7.6.19
 - pkg:pypi/arches@7.6.2
+- pkg:pypi/arches@7.6.20
+- pkg:pypi/arches@7.6.21
 - pkg:pypi/arches@7.6.3
 - pkg:pypi/arches@7.6.4
 - pkg:pypi/arches@7.6.5
@@ -119,6 +121,7 @@
 - pkg:pypi/arches@8.0.5
 - pkg:pypi/arches@8.0.6
 - pkg:pypi/arches@8.0.7
+- pkg:pypi/arches@8.0.8
 - pkg:pypi/arches@8.1.0a0
 - pkg:pypi/arches@8.1.0a1
 - pkg:pypi/arches@8.1.0a2
@@ -126,3 +129,5 @@
 - pkg:pypi/arches@8.1.0a4
 - pkg:pypi/arches@8.1.0a5
 - pkg:pypi/arches@8.1.0a6
+- pkg:pypi/arches@8.1.0a7
+- pkg:pypi/arches@8.1.0a8

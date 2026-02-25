@@ -6,6 +6,15 @@
 - pkg:pypi/archetypeai@25.11.11
 - pkg:pypi/archetypeai@25.11.27
 - pkg:pypi/archetypeai@25.11.4
+- pkg:pypi/archetypeai@25.12.15
+- pkg:pypi/archetypeai@25.12.17.2
+- pkg:pypi/archetypeai@25.12.17.3
+- pkg:pypi/archetypeai@25.12.17.4
+- pkg:pypi/archetypeai@25.12.17.5
+- pkg:pypi/archetypeai@25.12.17.6
 - pkg:pypi/archetypeai@25.8.14
 - pkg:pypi/archetypeai@25.8.20
 - pkg:pypi/archetypeai@25.9.1
+- pkg:pypi/archetypeai@26.2.23.0
+- pkg:pypi/archetypeai@26.2.24.0
+- pkg:pypi/archetypeai@26.2.24.1

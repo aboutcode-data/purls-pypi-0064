@@ -69,3 +69,4 @@
 - pkg:pypi/arcane-flask@2.2.0
 - pkg:pypi/arcane-flask@2.2.1
 - pkg:pypi/arcane-flask@2.2.2
+- pkg:pypi/arcane-flask@3.0.0
