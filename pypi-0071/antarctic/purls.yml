@@ -53,3 +53,5 @@
 - pkg:pypi/antarctic@0.7.9
 - pkg:pypi/antarctic@0.8.1
 - pkg:pypi/antarctic@0.9.5
+- pkg:pypi/antarctic@0.9.8
+- pkg:pypi/antarctic@0.9.9
