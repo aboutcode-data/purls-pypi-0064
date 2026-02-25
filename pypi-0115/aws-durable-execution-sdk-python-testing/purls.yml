@@ -2,3 +2,5 @@
 - pkg:pypi/aws-durable-execution-sdk-python-testing@1.0.0
 - pkg:pypi/aws-durable-execution-sdk-python-testing@1.0.0.post1
 - pkg:pypi/aws-durable-execution-sdk-python-testing@1.0.0.post2
+- pkg:pypi/aws-durable-execution-sdk-python-testing@1.1.0
+- pkg:pypi/aws-durable-execution-sdk-python-testing@1.1.1
