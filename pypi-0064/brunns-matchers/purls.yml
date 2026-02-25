@@ -14,6 +14,10 @@
 - pkg:pypi/brunns-matchers@2.0.0
 - pkg:pypi/brunns-matchers@2.1.0
 - pkg:pypi/brunns-matchers@2.1.1
+- pkg:pypi/brunns-matchers@2.10.0
+- pkg:pypi/brunns-matchers@2.10.1
+- pkg:pypi/brunns-matchers@2.11.0
+- pkg:pypi/brunns-matchers@2.11.1
 - pkg:pypi/brunns-matchers@2.3.0
 - pkg:pypi/brunns-matchers@2.4.0
 - pkg:pypi/brunns-matchers@2.5.0

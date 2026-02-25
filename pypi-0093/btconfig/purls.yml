@@ -10,3 +10,6 @@
 - pkg:pypi/btconfig@4.6.1
 - pkg:pypi/btconfig@4.6.2
 - pkg:pypi/btconfig@4.6.3
+- pkg:pypi/btconfig@5.0.0
+- pkg:pypi/btconfig@5.1.0
+- pkg:pypi/btconfig@6.0.0
