@@ -63,6 +63,7 @@
 - pkg:pypi/bgpy-pkg@12.2.0
 - pkg:pypi/bgpy-pkg@13.0.0
 - pkg:pypi/bgpy-pkg@13.0.1
+- pkg:pypi/bgpy-pkg@13.0.10
 - pkg:pypi/bgpy-pkg@13.0.2
 - pkg:pypi/bgpy-pkg@13.0.3
 - pkg:pypi/bgpy-pkg@13.0.4
