@@ -1,0 +1,7 @@
+- pkg:pypi/concourse-ci-python-project-demo@1.1.dev200701103238
+- pkg:pypi/concourse-ci-python-project-demo@1.1rc200701100101
+- pkg:pypi/concourse-ci-python-project-demo@1.1rc200701103443
+- pkg:pypi/concourse-ci-python-project-demo@2.0
+- pkg:pypi/concourse-ci-python-project-demo@2.1.dev200702130203
+- pkg:pypi/concourse-ci-python-project-demo@2.1rc200702130412
+- pkg:pypi/concourse-ci-python-project-demo@3.0
