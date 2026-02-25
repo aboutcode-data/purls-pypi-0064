@@ -1,1 +1,5 @@
 - pkg:pypi/binance-syncer@0.2.0
+- pkg:pypi/binance-syncer@0.2.1
+- pkg:pypi/binance-syncer@0.2.2
+- pkg:pypi/binance-syncer@0.2.3
+- pkg:pypi/binance-syncer@4.0.0
