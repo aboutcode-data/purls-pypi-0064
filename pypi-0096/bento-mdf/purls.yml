@@ -13,6 +13,8 @@
 - pkg:pypi/bento-mdf@0.11.7rc0
 - pkg:pypi/bento-mdf@0.11.8
 - pkg:pypi/bento-mdf@0.11.9
+- pkg:pypi/bento-mdf@0.12.1
+- pkg:pypi/bento-mdf@0.13.0
 - pkg:pypi/bento-mdf@0.4.1
 - pkg:pypi/bento-mdf@0.4.2
 - pkg:pypi/bento-mdf@0.4.3
