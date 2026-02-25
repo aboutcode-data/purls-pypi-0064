@@ -26,4 +26,13 @@
 - pkg:pypi/apache-airflow-providers-edge3@1.6.0
 - pkg:pypi/apache-airflow-providers-edge3@1.6.0rc1
 - pkg:pypi/apache-airflow-providers-edge3@1.6.0rc2
+- pkg:pypi/apache-airflow-providers-edge3@2.0.0
 - pkg:pypi/apache-airflow-providers-edge3@2.0.0rc1
+- pkg:pypi/apache-airflow-providers-edge3@2.0.1
+- pkg:pypi/apache-airflow-providers-edge3@2.0.1rc1
+- pkg:pypi/apache-airflow-providers-edge3@3.0.0
+- pkg:pypi/apache-airflow-providers-edge3@3.0.0rc1
+- pkg:pypi/apache-airflow-providers-edge3@3.0.1
+- pkg:pypi/apache-airflow-providers-edge3@3.0.1rc1
+- pkg:pypi/apache-airflow-providers-edge3@3.0.2
+- pkg:pypi/apache-airflow-providers-edge3@3.0.2rc1

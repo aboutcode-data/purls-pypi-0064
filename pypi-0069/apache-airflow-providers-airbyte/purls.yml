@@ -71,4 +71,7 @@
 - pkg:pypi/apache-airflow-providers-airbyte@5.2.5rc1
 - pkg:pypi/apache-airflow-providers-airbyte@5.3.0
 - pkg:pypi/apache-airflow-providers-airbyte@5.3.0rc1
+- pkg:pypi/apache-airflow-providers-airbyte@5.3.1
 - pkg:pypi/apache-airflow-providers-airbyte@5.3.1rc1
+- pkg:pypi/apache-airflow-providers-airbyte@5.3.2
+- pkg:pypi/apache-airflow-providers-airbyte@5.3.2rc1

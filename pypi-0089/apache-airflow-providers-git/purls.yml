@@ -20,4 +20,13 @@
 - pkg:pypi/apache-airflow-providers-git@0.0.9rc1
 - pkg:pypi/apache-airflow-providers-git@0.1.0
 - pkg:pypi/apache-airflow-providers-git@0.1.0rc1
+- pkg:pypi/apache-airflow-providers-git@0.1.1
 - pkg:pypi/apache-airflow-providers-git@0.1.1rc1
+- pkg:pypi/apache-airflow-providers-git@0.2.0
+- pkg:pypi/apache-airflow-providers-git@0.2.0rc1
+- pkg:pypi/apache-airflow-providers-git@0.2.1
+- pkg:pypi/apache-airflow-providers-git@0.2.1rc1
+- pkg:pypi/apache-airflow-providers-git@0.2.2
+- pkg:pypi/apache-airflow-providers-git@0.2.2rc1
+- pkg:pypi/apache-airflow-providers-git@0.2.3
+- pkg:pypi/apache-airflow-providers-git@0.2.3rc1
