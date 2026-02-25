@@ -24,6 +24,7 @@
 - pkg:pypi/azure-iot-device@2.13.0
 - pkg:pypi/azure-iot-device@2.13.1
 - pkg:pypi/azure-iot-device@2.14.0
+- pkg:pypi/azure-iot-device@2.15.0rc1
 - pkg:pypi/azure-iot-device@2.2.0
 - pkg:pypi/azure-iot-device@2.2.1
 - pkg:pypi/azure-iot-device@2.2.1rc0

@@ -10,6 +10,9 @@
 - pkg:pypi/badgie@0.14.0
 - pkg:pypi/badgie@0.14.1
 - pkg:pypi/badgie@0.14.2
+- pkg:pypi/badgie@0.14.3
+- pkg:pypi/badgie@0.14.4
+- pkg:pypi/badgie@0.15.2
 - pkg:pypi/badgie@0.2.0
 - pkg:pypi/badgie@0.3.0
 - pkg:pypi/badgie@0.4.0

@@ -51,3 +51,4 @@
 - pkg:pypi/azureml-automl-dnn-vision@1.60.0
 - pkg:pypi/azureml-automl-dnn-vision@1.61.0
 - pkg:pypi/azureml-automl-dnn-vision@1.61.0.post1
+- pkg:pypi/azureml-automl-dnn-vision@1.62.0

@@ -1,6 +1,7 @@
 - pkg:pypi/azure-mgmt-avs@0.1.0
 - pkg:pypi/azure-mgmt-avs@1.0.0
 - pkg:pypi/azure-mgmt-avs@1.0.0rc1
+- pkg:pypi/azure-mgmt-avs@10.0.0
 - pkg:pypi/azure-mgmt-avs@2.0.0
 - pkg:pypi/azure-mgmt-avs@7.0.0
 - pkg:pypi/azure-mgmt-avs@7.0.0b1

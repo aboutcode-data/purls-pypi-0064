@@ -38,3 +38,4 @@
 - pkg:pypi/azureml-training-tabular@1.59.0
 - pkg:pypi/azureml-training-tabular@1.60.0
 - pkg:pypi/azureml-training-tabular@1.61.0
+- pkg:pypi/azureml-training-tabular@1.62.0

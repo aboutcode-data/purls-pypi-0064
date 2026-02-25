@@ -82,6 +82,7 @@
 - pkg:pypi/azureml-cli-common@1.6.0
 - pkg:pypi/azureml-cli-common@1.60.0
 - pkg:pypi/azureml-cli-common@1.61.0
+- pkg:pypi/azureml-cli-common@1.62.0
 - pkg:pypi/azureml-cli-common@1.7.0
 - pkg:pypi/azureml-cli-common@1.8.0
 - pkg:pypi/azureml-cli-common@1.9.0
