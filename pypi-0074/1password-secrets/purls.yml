@@ -6,6 +6,13 @@
 - pkg:pypi/1password-secrets@0.0.1.dev139
 - pkg:pypi/1password-secrets@0.0.1.dev154
 - pkg:pypi/1password-secrets@0.0.1.dev156
+- pkg:pypi/1password-secrets@0.0.1.dev198
+- pkg:pypi/1password-secrets@0.0.1.dev199
+- pkg:pypi/1password-secrets@0.0.1.dev209
+- pkg:pypi/1password-secrets@0.0.1.dev214
+- pkg:pypi/1password-secrets@0.0.1.dev216
+- pkg:pypi/1password-secrets@0.0.1.dev217
+- pkg:pypi/1password-secrets@0.0.1.dev218
 - pkg:pypi/1password-secrets@0.0.1.dev78
 - pkg:pypi/1password-secrets@0.0.1.dev79
 - pkg:pypi/1password-secrets@0.0.1.dev81
@@ -24,3 +31,5 @@
 - pkg:pypi/1password-secrets@0.1.0
 - pkg:pypi/1password-secrets@0.2.0
 - pkg:pypi/1password-secrets@0.2.1
+- pkg:pypi/1password-secrets@0.3.0
+- pkg:pypi/1password-secrets@0.4.0
