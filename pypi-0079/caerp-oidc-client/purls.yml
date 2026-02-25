@@ -7,3 +7,5 @@
 - pkg:pypi/caerp-oidc-client@2024.2.0
 - pkg:pypi/caerp-oidc-client@2025.0.0
 - pkg:pypi/caerp-oidc-client@2025.1.0
+- pkg:pypi/caerp-oidc-client@2025.1.1
+- pkg:pypi/caerp-oidc-client@2025.1.2

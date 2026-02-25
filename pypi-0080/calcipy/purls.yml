@@ -75,3 +75,7 @@
 - pkg:pypi/calcipy@4.2.0
 - pkg:pypi/calcipy@4.3.0
 - pkg:pypi/calcipy@5.0.0
+- pkg:pypi/calcipy@6.0.0b1
+- pkg:pypi/calcipy@6.0.0b2
+- pkg:pypi/calcipy@6.0.0b3
+- pkg:pypi/calcipy@6.0.0rc0
