@@ -18,3 +18,4 @@
 - pkg:pypi/azure-appconfiguration-provider@2.2.0
 - pkg:pypi/azure-appconfiguration-provider@2.3.0
 - pkg:pypi/azure-appconfiguration-provider@2.3.1
+- pkg:pypi/azure-appconfiguration-provider@2.4.0
