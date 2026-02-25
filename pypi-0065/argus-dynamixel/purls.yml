@@ -8,3 +8,5 @@
 - pkg:pypi/argus-dynamixel@0.1.8
 - pkg:pypi/argus-dynamixel@0.1.9
 - pkg:pypi/argus-dynamixel@0.2.0
+- pkg:pypi/argus-dynamixel@0.2.1
+- pkg:pypi/argus-dynamixel@0.2.2
