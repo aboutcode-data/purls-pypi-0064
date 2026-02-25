@@ -13,6 +13,8 @@
 - pkg:pypi/actualpy@0.18.0
 - pkg:pypi/actualpy@0.19.0
 - pkg:pypi/actualpy@0.2.0
+- pkg:pypi/actualpy@0.20.0
+- pkg:pypi/actualpy@0.21.0
 - pkg:pypi/actualpy@0.3.0
 - pkg:pypi/actualpy@0.4.0
 - pkg:pypi/actualpy@0.5.0

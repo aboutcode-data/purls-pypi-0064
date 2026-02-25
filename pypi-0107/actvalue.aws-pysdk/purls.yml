@@ -1,3 +1,5 @@
 - pkg:pypi/actvalue.aws-pysdk@0.1.0
 - pkg:pypi/actvalue.aws-pysdk@0.2.0
 - pkg:pypi/actvalue.aws-pysdk@0.3.0
+- pkg:pypi/actvalue.aws-pysdk@1.0.1
+- pkg:pypi/actvalue.aws-pysdk@1.0.2
