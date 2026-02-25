@@ -159,3 +159,6 @@
 - pkg:pypi/chainlit@2.9.1
 - pkg:pypi/chainlit@2.9.2
 - pkg:pypi/chainlit@2.9.3
+- pkg:pypi/chainlit@2.9.4
+- pkg:pypi/chainlit@2.9.5
+- pkg:pypi/chainlit@2.9.6

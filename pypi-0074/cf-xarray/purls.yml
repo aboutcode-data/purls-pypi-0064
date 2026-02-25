@@ -5,6 +5,8 @@
 - pkg:pypi/cf-xarray@0.1.5
 - pkg:pypi/cf-xarray@0.10.0
 - pkg:pypi/cf-xarray@0.10.1
+- pkg:pypi/cf-xarray@0.10.10
+- pkg:pypi/cf-xarray@0.10.11
 - pkg:pypi/cf-xarray@0.10.2
 - pkg:pypi/cf-xarray@0.10.3
 - pkg:pypi/cf-xarray@0.10.4
